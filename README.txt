@@ -8,7 +8,7 @@ References:
 1. http://www.cplusplus.com/doc/oldtutorial/templates/ - How to make a template class
 
 How to run:
-Type make in the command line to run
+Change directory to src and type make in the command line to run
 Then ./Assignment3.out
 
 Notes on program:
